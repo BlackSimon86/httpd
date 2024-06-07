@@ -15,7 +15,7 @@ Ingresar al sitio de [play-with-docker](https://www.docker.com/play-with-docker/
 1.- Clonamos el repositorio git
 
 ```
-git clone https://github.com/arbravo/hello-world-container
+git clone https://github.com/BlackSimon86/hello-world-container
 ```
 
 2.- Ingresamos a la carpeta del proyecto
